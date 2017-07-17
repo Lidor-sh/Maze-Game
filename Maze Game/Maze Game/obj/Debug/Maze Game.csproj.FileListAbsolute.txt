@@ -1,0 +1,13 @@
+C:\Users\LIDOR\Desktop\תוכנות שאני יוצר\Maze Game\Maze Game\bin\Debug\Maze Game.exe.config
+C:\Users\LIDOR\Desktop\תוכנות שאני יוצר\Maze Game\Maze Game\bin\Debug\Maze Game.exe
+C:\Users\LIDOR\Desktop\תוכנות שאני יוצר\Maze Game\Maze Game\bin\Debug\Maze Game.pdb
+C:\Users\LIDOR\Desktop\תוכנות שאני יוצר\Maze Game\Maze Game\obj\Debug\Maze Game.csprojResolveAssemblyReference.cache
+C:\Users\LIDOR\Desktop\תוכנות שאני יוצר\Maze Game\Maze Game\obj\Debug\Maze_Game.Form1.resources
+C:\Users\LIDOR\Desktop\תוכנות שאני יוצר\Maze Game\Maze Game\obj\Debug\Maze_Game.Properties.Resources.resources
+C:\Users\LIDOR\Desktop\תוכנות שאני יוצר\Maze Game\Maze Game\obj\Debug\Maze Game.csproj.GenerateResource.Cache
+C:\Users\LIDOR\Desktop\תוכנות שאני יוצר\Maze Game\Maze Game\obj\Debug\Maze Game.exe
+C:\Users\LIDOR\Desktop\תוכנות שאני יוצר\Maze Game\Maze Game\obj\Debug\Maze Game.pdb
+C:\Users\LIDOR\Desktop\תוכנות שאני יוצר\Maze Game\Maze Game\obj\Debug\Maze_Game.Levels.resources
+C:\Users\LIDOR\Desktop\תוכנות שאני יוצר\Maze Game\Maze Game\obj\Debug\Maze_Game.Level1.resources
+C:\Users\LIDOR\Desktop\תוכנות שאני יוצר\Maze Game\Maze Game\obj\Debug\Maze_Game.level2.resources
+C:\Users\LIDOR\Desktop\תוכנות שאני יוצר\Maze Game\Maze Game\obj\Debug\Maze_Game.Level3.resources
